@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func intermediate() {
 
 	message := "Hello, Go!"
 	message1 := "Hello,\nGo!"
